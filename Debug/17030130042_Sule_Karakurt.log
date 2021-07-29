@@ -1,0 +1,104 @@
+﻿  main.cpp
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(19): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(36): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(59): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(60): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(61): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(62): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(63): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(64): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(65): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(66): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(70): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(71): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(72): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(73): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(79): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(80): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(83): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(84): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(89): warning C4244: 'bağımsız değişken': 'double' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(90): warning C4244: 'bağımsız değişken': 'double' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(93): warning C4244: 'bağımsız değişken': 'double' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(94): warning C4244: 'bağımsız değişken': 'double' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(99): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(100): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(101): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(102): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(105): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(108): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(109): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(113): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(114): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(118): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(119): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(128): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(129): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(130): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(131): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(132): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(133): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(134): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(135): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(139): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(140): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(141): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(142): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(147): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(148): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(152): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(153): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(157): warning C4244: 'bağımsız değişken': 'double' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(158): warning C4244: 'bağımsız değişken': 'double' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(162): warning C4244: 'bağımsız değişken': 'double' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(163): warning C4244: 'bağımsız değişken': 'double' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(168): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(169): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(170): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(171): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(174): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(177): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(178): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(182): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(183): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(187): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(188): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(236): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(238): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(239): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(240): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(241): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(245): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(246): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(247): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(248): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(252): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(253): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(254): warning C4244: 'bağımsız değişken': 'double' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(254): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(258): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(259): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(260): warning C4244: 'bağımsız değişken': 'double' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(260): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(264): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(265): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(266): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(270): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(271): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(272): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(277): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(278): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(282): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(283): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(287): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(288): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(292): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(293): warning C4244: 'bağımsız değişken': 'float' - 'GLint' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(313): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(343): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(345): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(347): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(349): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(369): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\sulek\source\repos\17030130042_sule_karakurt\17030130042_sule_karakurt\main.cpp(465): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  17030130042_Sule_Karakurt.vcxproj -> C:\Users\sulek\source\repos\17030130042_Sule_Karakurt\Debug\17030130042_Sule_Karakurt.exe
